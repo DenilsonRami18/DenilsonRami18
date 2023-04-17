@@ -1,14 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ThrM4jEi2lBxd7X2yz/giphy.gif" width="190" />
-  <h1>Hi 👋. I'm Denilson David</h1>
-  <h4>Estudiante de la Carrera Informática</h4>
+  <h1>Hi there 👋</h1>
 </div>
-
------
-<div align="left">
-  
-</div>
-
 
 <!--
 **DenilsonRami18/DenilsonRami18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
