@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/OIKT61NWgV9w58RyAi/giphy.gif" whidth="200" />
+  <img src="https://media.giphy.com/media/3ohhwNdo0Kii1noM4U/giphy.gif" width="320" />
   <h1>Hi 👋. I'm Denilson David</h1>
   <h3>Programer | Developer</h3>
 </div>
